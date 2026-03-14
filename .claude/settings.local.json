@@ -1,0 +1,10 @@
+{
+  "enabledMcpjsonServers": [
+    "aws-codecommit"
+  ],
+  "permissions": {
+    "allow": [
+      "mcp__aws-codecommit__list_repositories"
+    ]
+  }
+}
